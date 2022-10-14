@@ -29,11 +29,11 @@
 > In CSS I used a key feature of flexbox which is the ability to align and justify items on the main- and cross-axes, and to distribute space between flex items.
 
 
-> Design file created by <strong>Aya Adel</strong>
+   [![](https://img.shields.io/badge/Design_File-b4272d?style=flat&logo=iti&logoColor=)](https://www.figma.com/file/NrULdpMB3ekgxygyPLynha/trafalgar-landing-page-for-figma?node-id=0%3A1) <strong>&copy;</strong>  Aya Adel
 
 <div align="center">
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNrULdpMB3ekgxygyPLynha%2Ftrafalgar-landing-page-for-figma%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNrULdpMB3ekgxygyPLynha%2Ftrafalgar-landing-page-for-figma%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 </div>
 
